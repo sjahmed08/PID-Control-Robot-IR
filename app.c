@@ -1,27 +1,14 @@
 /*
 *********************************************************************************************************
-*                                              EXAMPLE CODE
 *
-*                             (c) Copyright 2013; Micrium, Inc.; Weston, FL
-*
-*                   All rights reserved.  Protected by international copyright laws.
-*                   Knowledge of the source code may not be used to write a similar
-*                   product.  This file may only be used in accordance with a license
-*                   and should not be redistributed in any way.
-*********************************************************************************************************
-*/
-
-/*
-*********************************************************************************************************
-*
-*                                            EXAMPLE CODE
+*                                        
 *
 *                                     ST Microelectronics STM32
 *                                              on the
 *
 *                                           STM3240G-EVAL  
 *                                         Evaluation Board
-*							Modified by Syed J. Ahmed, for the STM32F4-Discovery Board, September 2017s.
+*		Modified by Syed J. Ahmed, for the STM32F4-Discovery Board, September 2017.
 *
 * Filename      : app.c
 * Version       : V1.00
